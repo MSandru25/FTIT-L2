@@ -11,7 +11,7 @@ else if (x > -2 && x <= 0.5)
     res = 4 * x - 5;
     Console.WriteLine(res);
 }
-else if (x > 0.5)
+else
 {
     res = 14 * x - 7;
     Console.WriteLine(res);
